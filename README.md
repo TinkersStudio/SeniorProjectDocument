@@ -8,7 +8,7 @@ The documents file is used to give the guidance for the documentation and git us
 
 1. [Guide to git usage](#guide-to-git)
 2. [Kanban board](#kanban-board)
-3. Project Proposal
+3. [Project Proposal](https://github.com/TinkersStudio/SeniorProjectDocument/tree/master/Project%20Proposal)
 
 ### Guide to git
 
@@ -79,4 +79,4 @@ The task is assigned by using tag. If you see the name, it is assigned to you. T
 - Done is used for the work has been completed and ready to check.
 
 Only put the issues to the "Closed column" if there is the closing statement in the issue. A developer confirmed that the implementation has been completed
-The UI allow user to arrange the issues by drag and drop to proper column
+The UI allows user to arrange the issues by drag and drop to proper column
