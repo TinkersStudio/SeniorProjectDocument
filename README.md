@@ -27,10 +27,20 @@ git status
 ```
 
 #### Clone a repository
+To clone a repo
 
-```
-TODO: Write the instruction on how to clone a repo. Setup the correct upstream
-```
+- On GitHub, navigate to the main page of the repository.
+- Under your repository name, click Clone or download.
+- In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+- Open Terminal.
+- Navigate the working directory to the location where you want the cloned directory to be made.
+- Type ```git clone```, and then paste the URL you copied in Step 2.
+
+To setup the correct upstream
+- Open Terminal
+- List the current configured remote repository. ```git remote -v```
+- Specify a new remote upstream repository that will be synced with the fork. ```git remote add upstream <URL>```
+- Verify the new upstream ```git remote -v```
 
 #### Update a repo
 
