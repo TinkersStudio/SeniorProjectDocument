@@ -1,11 +1,10 @@
-# Sound Cloud 
+# Sound Cloud
 
 ## Project Title : Sound Cloud
 ## Author/Team Members
+<b>Project Advisor</b> Franz Kurfess
   - Anh Nguyen
   - Dung Trinh
-
-  <b>Project Advisor</b> Franz Kurfess
 
 ## Project Overview
 
@@ -25,6 +24,7 @@
   - evaluation criteria for the above requirements (how can an evaluator determine that the implementation of system meets the requirements)
 
 ### Experiments
+The application will run on Android version 4.4 and above
   - examination of how the system works in an environment that is as close as possible to the intended use
   - expected outcomes of the experiments
 
