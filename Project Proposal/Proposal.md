@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+#### Migrating the project prosal to the Google Docs: [Link](https://docs.google.com/document/d/142tEKtnOeFzyu4D9nhxAFiz8OrrP9bGh8_q2wRRoiyw/edit?usp=sharing)
+
+>>>>>>> 5945ee52262ca8696bc9dbd0262ef48bfd581d1e
 # Sound Cloud
 
 ## Project Title : Sound Cloud
@@ -29,6 +34,17 @@ The application will run on Android version 4.4 and above
   - expected outcomes of the experiments
 
 ### Schedule
+
+#### Monthly Plan For the Project
+
+| Month  | Tasks |
+| ------ |:-----:|
+|January |Brainstorming and research on the available technology|
+|February|Design and plan the implementation for the app. Implement the key features in the app |
+|March   |  Testing the integration and public the app for alpha version   |
+|April   |   
+|May     |
+
   - weekly or biweekly plan for the first quarter
   - monthly plan for the whole duration of the project
   - milestones that identify critical steps towards the completion of the system
