@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 =======
 #### Migrating the project prosal to the Google Docs: [Link](https://docs.google.com/document/d/142tEKtnOeFzyu4D9nhxAFiz8OrrP9bGh8_q2wRRoiyw/edit?usp=sharing)
 
->>>>>>> 5945ee52262ca8696bc9dbd0262ef48bfd581d1e
+Link to google Docs https://docs.google.com/document/d/1jajrDBjAZuJyrYfjayqVYKKMsHaBcads_agS4HC_L7w/edit?usp=sharing
 # Sound Cloud
 
 ## Project Title : Sound Cloud
